@@ -33,9 +33,3 @@
 The game is mobile-friendly and adapts seamlessly to different screen sizes:
 - For small screens, the dice and layout adjust for a better viewing experience.
 
----
-
-## 🚀 Getting Started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/dice-battle.git
